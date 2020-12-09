@@ -1,13 +1,17 @@
 # XAI_evaluation
 This repository contains the code and results of the paper "Evaluation and Comparison of CNN Visual Explanations for Histopathology",  to be presented at the XAI workshop at AAAI-21.
 
+![Example image](https://github.com/maragraziani/XAI_evaluation/blob/master/results/imgs/ious_def_final.png)
+*Prova prova
+
+
 #### Dependencies
 pip install -r requirements.txt
 
 #### Citing this work
 If you use this code in a scientific publication, we would appreciate references to the following paper:
 
-***[1]  Graziani M., Lompech T., Müller H. and Andrearczyk V. "Evaluation and Comparison of CNN Visual Explanations for Histopathology" to be presented XAI workshop at AAAI-21. 
+**[1]  Graziani M., Lompech T., Müller H. and Andrearczyk V. "Evaluation and Comparison of CNN Visual Explanations for Histopathology" to be presented XAI workshop at AAAI-21. 
 
 Bibtex entry:
 ```latex 
