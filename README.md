@@ -37,3 +37,6 @@ Bibtex entry:
   year          =  2021,
 }
 ```
+
+#### Acknowledgements
+This  work  is  supported  by  the  European  Union’s  projects PROCESS (agreement  n.  777533),  ExaMode (n.  825292)and AI4Media (n. 951911). NVIDIA Corporation supportedthis work with the donation of the Titan X GPU.
