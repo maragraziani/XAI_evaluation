@@ -1,0 +1,8 @@
+tensorflow
+keras
+opencv-python
+matplotlib
+lime
+scikit-image
+scikit-learn
+setproctitle
